@@ -17,7 +17,7 @@ p {
 <p>This text will be green. Inline styles take precedence over CSS included externally.</p>
 <p style="color: blue">The <code>style</code> attribute can override it, though.</p>
 
-
+:: because
 ___
 
 ---
